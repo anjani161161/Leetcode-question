@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/anjani161161/Leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/anjani161161/Leetcode-question/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjani161161/Leetcode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anjani161161/Leetcode-question/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/anjani161161/Leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjani161161/Leetcode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjani161161/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anjani161161/Leetcode-question/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/anjani161161/Leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjani161161/Leetcode-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anjani161161/Leetcode-question/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
