@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anjani161161/Leetcode-question/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/anjani161161/Leetcode-question/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anjani161161/Leetcode-question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjani161161/Leetcode-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/anjani161161/Leetcode-question/tree/master/3620-network-recovery-pathways) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjani161161/Leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/anjani161161/Leetcode-question/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/anjani161161/Leetcode-question/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjani161161/Leetcode-question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjani161161/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anjani161161/Leetcode-question/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -175,12 +177,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anjani161161/Leetcode-question/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/anjani161161/Leetcode-question/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anjani161161/Leetcode-question/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/anjani161161/Leetcode-question/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/anjani161161/Leetcode-question/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/anjani161161/Leetcode-question/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/anjani161161/Leetcode-question/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/anjani161161/Leetcode-question/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
