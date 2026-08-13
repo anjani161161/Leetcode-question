@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjani161161/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/anjani161161/Leetcode-question/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjani161161/Leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/anjani161161/Leetcode-question/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/anjani161161/Leetcode-question/tree/master/1260-shift-2d-grid) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anjani161161/Leetcode-question/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjani161161/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anjani161161/Leetcode-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anjani161161/Leetcode-question/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjani161161/Leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anjani161161/Leetcode-question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anjani161161/Leetcode-question/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anjani161161/Leetcode-question/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjani161161/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -198,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/anjani161161/Leetcode-question/tree/master/1510-stone-game-iv) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anjani161161/Leetcode-question/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anjani161161/Leetcode-question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
