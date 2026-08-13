@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anjani161161/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjani161161/Leetcode-question/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/anjani161161/Leetcode-question/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/anjani161161/Leetcode-question/tree/master/1260-shift-2d-grid) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anjani161161/Leetcode-question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/anjani161161/Leetcode-question/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anjani161161/Leetcode-question/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anjani161161/Leetcode-question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
