@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/anjani161161/Leetcode-question/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anjani161161/Leetcode-question/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjani161161/Leetcode-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anjani161161/Leetcode-question/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anjani161161/Leetcode-question/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anjani161161/Leetcode-question/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anjani161161/Leetcode-question/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anjani161161/Leetcode-question/tree/master/0242-valid-anagram) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjani161161/Leetcode-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anjani161161/Leetcode-question/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anjani161161/Leetcode-question/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anjani161161/Leetcode-question/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjani161161/Leetcode-question/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
